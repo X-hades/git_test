@@ -1,3 +1,4 @@
 hey,im a new developer in git commuity :)
 new update has saved
 doneee
+git status
